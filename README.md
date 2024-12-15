@@ -1,6 +1,7 @@
 <h1 align="left">Hi, I am Neeraj❄️</h1>
-<h3 align="center">A competitive programmer from India</h3>
 ###
+<h3 align="center">A competitive programmer from India</h3>
+
 
 <div align="center">
   <img height="300" src="https://github.com/user-attachments/assets/2a6bd068-e8b8-4ac2-a009-a1033fcdfa5d"  />
