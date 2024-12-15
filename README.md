@@ -6,7 +6,7 @@
   <img height="300" src="https://github.com/user-attachments/assets/2a6bd068-e8b8-4ac2-a009-a1033fcdfa5d"  />
 </div>
 <br>
-<center>Student at Chennai Institute of Technology | 700+ DSA @ Leetcode, GFG, Codechef, Code Forces & Hackerrank | HTML, CSS, JavaScript , Node.js | DA Grad'27</center>
+<h4 align="center">Student at Chennai Institute of Technology | 700+ DSA @ Leetcode, GFG, Codechef, Code Forces & Hackerrank | HTML, CSS, JavaScript , Node.js | DA Grad'27</h4>
 
 
 ###
