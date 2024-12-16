@@ -11,16 +11,16 @@
 
 ###
 
-<h2 align="left">Profiles</h2>
+<h2 align="left">Connect with me:</h2>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="hackerrank logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="instagram logo"  />
-</div>
+<p align="center">
+<a href="https://linkedin.com/in/neeraj-t-0873b7276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neeraj-t-0873b7276" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/neeraj4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="neeraj4" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/thug_neeraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thug_neeraj" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/neerajdec2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neerajdec2005" height="30" width="40" /></a>
+</p>
 
 ###
 
