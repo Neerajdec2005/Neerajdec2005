@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I am Neeraj❄️</h1>
-<h3 align="center">A competitive programmer from India</h3>
+<h3 align="center">A Computer Science Graduate from India</h3>
 
 
 <div align="center">
