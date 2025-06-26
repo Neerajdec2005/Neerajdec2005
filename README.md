@@ -1,5 +1,6 @@
 <h1 align="left">Hi, I am Neeraj❄️</h1>
 <h3 align="center">A Computer Science Graduate from India</h3>
+<div class="tenor-gif-embed" data-postid="19684211" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/code-coding-computer-gif-19684211">Code Coding GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <br>
 <h4 align="center">Student at Chennai Institute of Technology | 700+ DSA @ Leetcode, GFG, Codechef, Code Forces & Hackerrank | HTML, CSS, JavaScript , Node.js | DA Grad'27</h4>
 
