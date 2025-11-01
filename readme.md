@@ -1,6 +1,6 @@
 <h1 align="left">❄️Hi, I am Neeraj</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=800&color=6B7280&background=00000000&width=760&lines=Machine+Learning+%7C+Big+Data+%7C+MERN+Stack+%7C+SQL" alt="specialties" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=800&color=6B7280&background=00000000&center=true&vCenter=true&width=760&lines=Machine+Learning+%7C+Big+Data+%7C+MERN+Stack+%7C+SQL" alt="specialties" />
 </p>
 
 <p align="center">
@@ -57,13 +57,13 @@
   <div align="center">
   <table style="width:100%;max-width:900px;margin:20px auto;border-collapse:separate;border-spacing:12px;">
     <tr>
-      <td style="width:50%;padding:20px;background:rgba(255,255,255,0.05);border-radius:15px;border:2px solid rgba(139,92,246,0.3);box-shadow:0 4px 12px rgba(139,92,246,0.2);vertical-align:top;">
+      <td align="center" style="width:50%;padding:20px;background:rgba(255,255,255,0.05);border-radius:15px;border:2px solid rgba(139,92,246,0.3);box-shadow:0 4px 12px rgba(139,92,246,0.2);">
         <h3 style="background:linear-gradient(135deg, #667eea 0%, #764ba2 100%);color:white;padding:12px;border-radius:10px;text-align:center;margin:0 0 15px 0;">Machine Learning</h3>
         <ul style="list-style:none;padding:0;margin:0;text-align:center;">
-          <li style="padding:8px 0;border-bottom:1px solid rgba(139,92,246,0.1);"><a href="https://github.com/Neerajdec2005/Estimation-of-Yearly-Internet-Usage-via-Stochastic-Gradient-Descent" style="color:#6B7280;text-decoration:none;">Estimation of Yearly Internet Usage via Stochastic Gradient Descent</a></li>
-          <li style="padding:8px 0;border-bottom:1px solid rgba(139,92,246,0.1);"><a href="https://github.com/Neerajdec2005/breast-cancer-classifier-using-MLE-and-Batch-Gradient-Ascent" style="color:#6B7280;text-decoration:none;">Breast Cancer Classifier using MLE and Batch Gradient Ascent</a></li>
-          <li style="padding:8px 0;border-bottom:1px solid rgba(139,92,246,0.1);"><a href="https://github.com/Neerajdec2005/Simple-AI-Assistant" style="color:#6B7280;text-decoration:none;">Simple AI Assistant</a></li>
-          <li style="padding:8px 0;"><a href="https://github.com/Neerajdec2005/AKARI-Youtube-AI" style="color:#6B7280;text-decoration:none;">AKARI Youtube AI</a></li>
+          <li style="padding:8px 0;border-bottom:1px solid rgba(139,92,246,0.1);"><a href="https://github.com/Neerajdec2005/Estimation-of-Yearly-Internet-Usage-via-Stochastic-Gradient-Descent" style="color:inherit;text-decoration:none;">Estimation of Yearly Internet Usage via Stochastic Gradient Descent</a></li>
+          <li style="padding:8px 0;border-bottom:1px solid rgba(139,92,246,0.1);"><a href="https://github.com/Neerajdec2005/breast-cancer-classifier-using-MLE-and-Batch-Gradient-Ascent" style="color:inherit;text-decoration:none;">Breast Cancer Classifier using MLE and Batch Gradient Ascent</a></li>
+          <li style="padding:8px 0;border-bottom:1px solid rgba(139,92,246,0.1);"><a href="https://github.com/Neerajdec2005/Simple-AI-Assistant" style="color:inherit;text-decoration:none;">Simple AI Assistant</a></li>
+          <li style="padding:8px 0;"><a href="https://github.com/Neerajdec2005/AKARI-Youtube-AI" style="color:inherit;text-decoration:none;">AKARI Youtube AI</a></li>
         </ul>
         <div style="margin-top:15px;padding-top:15px;border-top:1px solid rgba(139,92,246,0.2);text-align:center;">
           <p style="font-size:12px;color:#8b5cf6;font-weight:600;font-style:italic;margin:0 0 8px 0;">Tech Stacks:</p>
@@ -74,10 +74,13 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="32" alt="jupyter" style="margin:4px;" />
         </div>
       </td>
-      <td style="width:50%;padding:20px;background:rgba(255,255,255,0.05);border-radius:15px;border:2px solid rgba(139,92,246,0.3);box-shadow:0 4px 12px rgba(139,92,246,0.2);vertical-align:top;">
+      <td align="center" style="width:50%;padding:20px;background:rgba(255,255,255,0.05);border-radius:15px;border:2px solid rgba(139,92,246,0.3);box-shadow:0 4px 12px rgba(139,92,246,0.2);">
         <h3 style="background:linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);color:white;padding:12px;border-radius:10px;text-align:center;margin:0 0 15px 0;">Big Data</h3>
         <ul style="list-style:none;padding:0;margin:0;text-align:center;">
-          <li style="padding:8px 0;"><a href="https://github.com/Neerajdec2005/Word-Count-using-Hadoop-MapReduce" style="color:#6B7280;text-decoration:none;">Word Count using Hadoop MapReduce</a></li>
+          <li style="padding:8px 0;border-bottom:1px solid rgba(139,92,246,0.1);"><a href="https://github.com/Neerajdec2005/Word-Count-using-Hadoop-MapReduce" style="color:inherit;text-decoration:none;">Word Count using Hadoop MapReduce</a></li>
+          <li style="padding:8px 0;border-bottom:1px solid rgba(139,92,246,0.1);"><em style="color:#6B7280;">Upcoming</em></li>
+          <li style="padding:8px 0;border-bottom:1px solid rgba(139,92,246,0.1);"><em style="color:#6B7280;">Upcoming</em></li>
+          <li style="padding:8px 0;"><em style="color:#6B7280;">Upcoming</em></li>
         </ul>
         <div style="margin-top:15px;padding-top:15px;border-top:1px solid rgba(139,92,246,0.2);text-align:center;">
           <p style="font-size:12px;color:#8b5cf6;font-weight:600;font-style:italic;margin:0 0 8px 0;">Tech Stacks:</p>
@@ -87,13 +90,13 @@
       </td>
     </tr>
     <tr>
-      <td style="width:50%;padding:20px;background:rgba(255,255,255,0.05);border-radius:15px;border:2px solid rgba(139,92,246,0.3);box-shadow:0 4px 12px rgba(139,92,246,0.2);vertical-align:top;">
+      <td align="center" style="width:50%;padding:20px;background:rgba(255,255,255,0.05);border-radius:15px;border:2px solid rgba(139,92,246,0.3);box-shadow:0 4px 12px rgba(139,92,246,0.2);">
         <h3 style="background:linear-gradient(135deg, #fa709a 0%, #fee140 100%);color:white;padding:12px;border-radius:10px;text-align:center;margin:0 0 15px 0;">Full Stack Development</h3>
         <ul style="list-style:none;padding:0;margin:0;text-align:center;">
-          <li style="padding:8px 0;border-bottom:1px solid rgba(139,92,246,0.1);"><a href="https://github.com/Neerajdec2005/GATE-ANALYSIS" style="color:#6B7280;text-decoration:none;">GATE ANALYSIS</a></li>
-          <li style="padding:8px 0;border-bottom:1px solid rgba(139,92,246,0.1);"><a href="https://github.com/Neerajdec2005/Game-of-Life" style="color:#6B7280;text-decoration:none;">Game of Life</a></li>
-          <li style="padding:8px 0;border-bottom:1px solid rgba(139,92,246,0.1);"><a href="https://github.com/Neerajdec2005/ELPL" style="color:#6B7280;text-decoration:none;">ELPL</a></li>
-          <li style="padding:8px 0;"><a href="https://github.com/Neerajdec2005/Neeraj-s-Portfolio" style="color:#6B7280;text-decoration:none;">Neeraj's Portfolio</a></li>
+          <li style="padding:8px 0;border-bottom:1px solid rgba(139,92,246,0.1);"><a href="https://github.com/Neerajdec2005/GATE-ANALYSIS" style="color:inherit;text-decoration:none;">GATE ANALYSIS</a></li>
+          <li style="padding:8px 0;border-bottom:1px solid rgba(139,92,246,0.1);"><a href="https://github.com/Neerajdec2005/Game-of-Life" style="color:inherit;text-decoration:none;">Game of Life</a></li>
+          <li style="padding:8px 0;border-bottom:1px solid rgba(139,92,246,0.1);"><a href="https://github.com/Neerajdec2005/ELPL" style="color:inherit;text-decoration:none;">ELPL</a></li>
+          <li style="padding:8px 0;"><a href="https://github.com/Neerajdec2005/Neeraj-s-Portfolio" style="color:inherit;text-decoration:none;">Neeraj's Portfolio</a></li>
         </ul>
         <div style="margin-top:15px;padding-top:15px;border-top:1px solid rgba(139,92,246,0.2);text-align:center;">
           <p style="font-size:12px;color:#8b5cf6;font-weight:600;font-style:italic;margin:0 0 8px 0;">Tech Stacks:</p>
@@ -108,12 +111,12 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="figma" style="margin:4px;" />
         </div>
       </td>
-      <td style="width:50%;padding:20px;background:rgba(255,255,255,0.05);border-radius:15px;border:2px solid rgba(139,92,246,0.3);box-shadow:0 4px 12px rgba(139,92,246,0.2);vertical-align:top;">
+      <td align="center" style="width:50%;padding:20px;background:rgba(255,255,255,0.05);border-radius:15px;border:2px solid rgba(139,92,246,0.3);box-shadow:0 4px 12px rgba(139,92,246,0.2);">
         <h3 style="background:linear-gradient(135deg, #f093fb 0%, #f5576c 100%);color:white;padding:12px;border-radius:10px;text-align:center;margin:0 0 15px 0;">OpenCV</h3>
         <ul style="list-style:none;padding:0;margin:0;text-align:center;">
-          <li style="padding:8px 0;border-bottom:1px solid rgba(139,92,246,0.1);"><a href="https://github.com/Neerajdec2005/Real-Time-object-detection-and-presentation-using-point-clouds" style="color:#6B7280;text-decoration:none;">Real Time Object Detection and Presentation using Point Clouds</a></li>
-          <li style="padding:8px 0;border-bottom:1px solid rgba(139,92,246,0.1);"><a href="https://github.com/Neerajdec2005/Word-Detection-Using-EasyOCR" style="color:#6B7280;text-decoration:none;">Word Detection Using EasyOCR</a></li>
-          <li style="padding:8px 0;"><a href="https://github.com/Neerajdec2005/Mtcnn-Haar-Cascade-opencv-implemention" style="color:#6B7280;text-decoration:none;">Mtcnn Haar Cascade OpenCV Implementation</a></li>
+          <li style="padding:8px 0;border-bottom:1px solid rgba(139,92,246,0.1);"><a href="https://github.com/Neerajdec2005/Real-Time-object-detection-and-presentation-using-point-clouds" style="color:inherit;text-decoration:none;">Real Time Object Detection and Presentation using Point Clouds</a></li>
+          <li style="padding:8px 0;border-bottom:1px solid rgba(139,92,246,0.1);"><a href="https://github.com/Neerajdec2005/Word-Detection-Using-EasyOCR" style="color:inherit;text-decoration:none;">Word Detection Using EasyOCR</a></li>
+          <li style="padding:8px 0;"><a href="https://github.com/Neerajdec2005/Mtcnn-Haar-Cascade-opencv-implemention" style="color:inherit;text-decoration:none;">Mtcnn Haar Cascade OpenCV Implementation</a></li>
         </ul>
         <div style="margin-top:15px;padding-top:15px;border-top:1px solid rgba(139,92,246,0.2);text-align:center;">
           <p style="font-size:12px;color:#8b5cf6;font-weight:600;font-style:italic;margin:0 0 8px 0;">Tech Stacks:</p>
@@ -124,7 +127,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" style="padding:20px;background:rgba(255,255,255,0.05);border-radius:15px;border:2px solid rgba(139,92,246,0.3);box-shadow:0 4px 12px rgba(139,92,246,0.2);text-align:center;">
+      <td align="center" style="padding:20px;background:rgba(255,255,255,0.05);border-radius:15px;border:2px solid rgba(139,92,246,0.3);box-shadow:0 4px 12px rgba(139,92,246,0.2);text-align:center;">
         <p style="font-size:12px;color:#8b5cf6;font-weight:600;font-style:italic;margin:0 0 12px 0;">Additional Tech Stacks:</p>
         <div style="text-align:center;">
           <img src="https://skillicons.dev/icons?i=c" height="32" alt="c" style="margin:4px;" />
