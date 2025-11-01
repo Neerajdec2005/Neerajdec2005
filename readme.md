@@ -61,23 +61,23 @@
       <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);color:white;border-radius:10px;word-wrap:break-word;"><strong>Big Data</strong></td>
     </tr>
     <tr>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:rgba(255,255,255,0.05);border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><a href="https://github.com/Neerajdec2005/Estimation-of-Yearly-Internet-Usage-via-Stochastic-Gradient-Descent" style="color:inherit;text-decoration:none;">Estimation of Yearly Internet Usage via Stochastic Gradient Descent</a></td>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:rgba(255,255,255,0.05);border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><a href="https://github.com/Neerajdec2005/Word-Count-using-Hadoop-MapReduce" style="color:inherit;text-decoration:none;">Word Count using Hadoop MapReduce</a></td>
+      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><a href="https://github.com/Neerajdec2005/Estimation-of-Yearly-Internet-Usage-via-Stochastic-Gradient-Descent" style="color:inherit;text-decoration:none;">Estimation of Yearly Internet Usage via Stochastic Gradient Descent</a></td>
+      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><a href="https://github.com/Neerajdec2005/Word-Count-using-Hadoop-MapReduce" style="color:inherit;text-decoration:none;">Word Count using Hadoop MapReduce</a></td>
     </tr>
     <tr>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:rgba(255,255,255,0.05);border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><a href="https://github.com/Neerajdec2005/breast-cancer-classifier-using-MLE-and-Batch-Gradient-Ascent" style="color:inherit;text-decoration:none;">Breast Cancer Classifier using MLE and Batch Gradient Ascent</a></td>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:rgba(255,255,255,0.05);border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><em style="color:#6B7280;">Upcoming</em></td>
+      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><a href="https://github.com/Neerajdec2005/breast-cancer-classifier-using-MLE-and-Batch-Gradient-Ascent" style="color:inherit;text-decoration:none;">Breast Cancer Classifier using MLE and Batch Gradient Ascent</a></td>
+      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><em style="color:#6B7280;">Upcoming</em></td>
     </tr>
     <tr>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:rgba(255,255,255,0.05);border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><a href="https://github.com/Neerajdec2005/Simple-AI-Assistant" style="color:inherit;text-decoration:none;">Simple AI Assistant</a></td>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:rgba(255,255,255,0.05);border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><em style="color:#6B7280;">Upcoming</em></td>
+      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><a href="https://github.com/Neerajdec2005/Simple-AI-Assistant" style="color:inherit;text-decoration:none;">Simple AI Assistant</a></td>
+      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><em style="color:#6B7280;">Upcoming</em></td>
     </tr>
     <tr>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:rgba(255,255,255,0.05);border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><a href="https://github.com/Neerajdec2005/AKARI-Youtube-AI" style="color:inherit;text-decoration:none;">AKARI Youtube AI</a></td>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:rgba(255,255,255,0.05);border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><em style="color:#6B7280;">Upcoming</em></td>
+      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><a href="https://github.com/Neerajdec2005/AKARI-Youtube-AI" style="color:inherit;text-decoration:none;">AKARI Youtube AI</a></td>
+      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><em style="color:#6B7280;">Upcoming</em></td>
     </tr>
     <tr>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:rgba(255,255,255,0.05);border-radius:10px;border:2px solid rgba(139,92,246,0.3);word-wrap:break-word;">
+      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white;border-radius:10px;border:2px solid rgba(139,92,246,0.3);word-wrap:break-word;">
         <p style="font-size:12px;color:#8b5cf6;font-weight:600;font-style:italic;margin:0 0 8px 0;">Tech Stacks:</p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python" style="margin:4px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="32" alt="r" style="margin:4px;" />
@@ -85,7 +85,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32" alt="pandas" style="margin:4px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="32" alt="jupyter" style="margin:4px;" />
       </td>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:rgba(255,255,255,0.05);border-radius:10px;border:2px solid rgba(139,92,246,0.3);word-wrap:break-word;">
+      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white;border-radius:10px;border:2px solid rgba(139,92,246,0.3);word-wrap:break-word;">
         <p style="font-size:12px;color:#8b5cf6;font-weight:600;font-style:italic;margin:0 0 8px 0;">Tech Stacks:</p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python" style="margin:4px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java" style="margin:4px;" />
@@ -97,23 +97,23 @@
       <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:linear-gradient(135deg, #f093fb 0%, #f5576c 100%);color:white;border-radius:10px;word-wrap:break-word;"><strong>OpenCV</strong></td>
     </tr>
     <tr>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:rgba(255,255,255,0.05);border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><a href="https://github.com/Neerajdec2005/GATE-ANALYSIS" style="color:inherit;text-decoration:none;">GATE ANALYSIS</a></td>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:rgba(255,255,255,0.05);border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><a href="https://github.com/Neerajdec2005/Real-Time-object-detection-and-presentation-using-point-clouds" style="color:inherit;text-decoration:none;">Real Time Object Detection and Presentation using Point Clouds</a></td>
+      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><a href="https://github.com/Neerajdec2005/GATE-ANALYSIS" style="color:inherit;text-decoration:none;">GATE ANALYSIS</a></td>
+      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><a href="https://github.com/Neerajdec2005/Real-Time-object-detection-and-presentation-using-point-clouds" style="color:inherit;text-decoration:none;">Real Time Object Detection and Presentation using Point Clouds</a></td>
     </tr>
     <tr>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:rgba(255,255,255,0.05);border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><a href="https://github.com/Neerajdec2005/Game-of-Life" style="color:inherit;text-decoration:none;">Game of Life</a></td>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:rgba(255,255,255,0.05);border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><a href="https://github.com/Neerajdec2005/Word-Detection-Using-EasyOCR" style="color:inherit;text-decoration:none;">Word Detection Using EasyOCR</a></td>
+      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><a href="https://github.com/Neerajdec2005/Game-of-Life" style="color:inherit;text-decoration:none;">Game of Life</a></td>
+      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><a href="https://github.com/Neerajdec2005/Word-Detection-Using-EasyOCR" style="color:inherit;text-decoration:none;">Word Detection Using EasyOCR</a></td>
     </tr>
     <tr>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:rgba(255,255,255,0.05);border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><a href="https://github.com/Neerajdec2005/ELPL" style="color:inherit;text-decoration:none;">ELPL</a></td>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:rgba(255,255,255,0.05);border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><a href="https://github.com/Neerajdec2005/Mtcnn-Haar-Cascade-opencv-implemention" style="color:inherit;text-decoration:none;">Mtcnn Haar Cascade OpenCV Implementation</a></td>
+      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><a href="https://github.com/Neerajdec2005/ELPL" style="color:inherit;text-decoration:none;">ELPL</a></td>
+      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><a href="https://github.com/Neerajdec2005/Mtcnn-Haar-Cascade-opencv-implemention" style="color:inherit;text-decoration:none;">Mtcnn Haar Cascade OpenCV Implementation</a></td>
     </tr>
     <tr>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:rgba(255,255,255,0.05);border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><a href="https://github.com/Neerajdec2005/Neeraj-s-Portfolio" style="color:inherit;text-decoration:none;">Neeraj's Portfolio</a></td>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:rgba(255,255,255,0.05);border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><em style="color:#6B7280;">Upcoming</em></td>
+      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><a href="https://github.com/Neerajdec2005/Neeraj-s-Portfolio" style="color:inherit;text-decoration:none;">Neeraj's Portfolio</a></td>
+      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;"><em style="color:#6B7280;">Upcoming</em></td>
     </tr>
     <tr>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:rgba(255,255,255,0.05);border-radius:10px;border:2px solid rgba(139,92,246,0.3);word-wrap:break-word;">
+      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white;border-radius:10px;border:2px solid rgba(139,92,246,0.3);word-wrap:break-word;">
         <p style="font-size:12px;color:#8b5cf6;font-weight:600;font-style:italic;margin:0 0 8px 0;">Tech Stacks:</p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5" style="margin:4px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3" style="margin:4px;" />
@@ -125,7 +125,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="postgresql" style="margin:4px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="figma" style="margin:4px;" />
       </td>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:rgba(255,255,255,0.05);border-radius:10px;border:2px solid rgba(139,92,246,0.3);word-wrap:break-word;">
+      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white;border-radius:10px;border:2px solid rgba(139,92,246,0.3);word-wrap:break-word;">
         <p style="font-size:12px;color:#8b5cf6;font-weight:600;font-style:italic;margin:0 0 8px 0;">Tech Stacks:</p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python" style="margin:4px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="32" alt="opencv" style="margin:4px;" />
@@ -133,7 +133,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center" style="padding:20px;background:rgba(255,255,255,0.05);border-radius:15px;border:2px solid rgba(139,92,246,0.3);box-shadow:0 4px 12px rgba(139,92,246,0.2);text-align:center;">
+      <td colspan="2" align="center" style="padding:20px;background:rgba(139,92,246,0.15);border-radius:15px;border:2px solid rgba(139,92,246,0.3);box-shadow:0 4px 12px rgba(139,92,246,0.2);text-align:center;">
         <p style="font-size:12px;color:#8b5cf6;font-weight:600;font-style:italic;margin:0 0 12px 0;">Additional Tech Stacks:</p>
         <div style="text-align:center;">
           <img src="https://skillicons.dev/icons?i=c" height="32" alt="c" style="margin:4px;" />
