@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="240" viewBox="0 0 360 240" preserveAspectRatio="xMidYMid meet">
+  <style>
+    .label { font-family: Arial, sans-serif; fill: #374751; font-weight: 600; font-size: 12px; }
+    .value { fill: #0b6ef0; font-weight: 700; font-size: 12px; }
+    .bg { fill: #e6eef9; }
+  </style>
+  <rect width="100%" height="100%" fill="transparent" />
+  <g transform="translate(10,20)">
+    <g transform="translate(0,0)">
+      <text x="0" y="12" class="label">Machine Learning</text>
+      <rect x="140" y="0" width="200" height="14" rx="6" class="bg" />
+      <rect x="140" y="0" width="170" height="14" rx="6" fill="#0b6ef0" />
+      <text x="350" y="12" text-anchor="end" class="value">85</text>
+    </g>
+    <g transform="translate(0,30)">
+      <text x="0" y="12" class="label">Big Data</text>
+      <rect x="140" y="0" width="200" height="14" rx="6" class="bg" />
+      <rect x="140" y="0" width="140" height="14" rx="6" fill="#0b6ef0" />
+      <text x="350" y="12" text-anchor="end" class="value">70</text>
+    </g>
+    <g transform="translate(0,60)">
+      <text x="0" y="12" class="label">MERN</text>
+      <rect x="140" y="0" width="200" height="14" rx="6" class="bg" />
+      <rect x="140" y="0" width="150" height="14" rx="6" fill="#0b6ef0" />
+      <text x="350" y="12" text-anchor="end" class="value">75</text>
+    </g>
+    <g transform="translate(0,90)">
+      <text x="0" y="12" class="label">SQL</text>
+      <rect x="140" y="0" width="200" height="14" rx="6" class="bg" />
+      <rect x="140" y="0" width="160" height="14" rx="6" fill="#0b6ef0" />
+      <text x="350" y="12" text-anchor="end" class="value">80</text>
+    </g>
+    <g transform="translate(0,120)">
+      <text x="0" y="12" class="label">DSA</text>
+      <rect x="140" y="0" width="200" height="14" rx="6" class="bg" />
+      <rect x="140" y="0" width="180" height="14" rx="6" fill="#0b6ef0" />
+      <text x="350" y="12" text-anchor="end" class="value">90</text>
+    </g>
+  </g>
+</svg>

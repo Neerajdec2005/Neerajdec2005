@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="300" viewBox="0 0 360 300">
+  <style>
+    .axis { stroke: #e6eef9; stroke-width: 1; }
+    .grid { stroke: #e1e6eb; stroke-width: 1; fill: none; }
+    .label { font-family: Arial, sans-serif; fill: #374751; font-size: 12px; }
+    .area { fill: rgba(139,92,246,0.18); stroke: #8b5cf6; stroke-width: 2; }
+    .dot { fill: #8b5cf6; }
+  </style>
+
+  <g transform="translate(180,150)">
+    <!-- Concentric grid -->
+    <circle class="grid" r="100" />
+    <circle class="grid" r="80" />
+    <circle class="grid" r="60" />
+    <circle class="grid" r="40" />
+    <circle class="grid" r="20" />
+
+    <!-- Axis lines -->
+    <line class="axis" x1="0" y1="0" x2="0" y2="-100" />
+    <line class="axis" x1="0" y1="0" x2="95.11" y2="-30.90" />
+    <line class="axis" x1="0" y1="0" x2="58.78" y2="80.90" />
+    <line class="axis" x1="0" y1="0" x2="-58.78" y2="80.90" />
+    <line class="axis" x1="0" y1="0" x2="-95.11" y2="-30.90" />
+
+    <!-- Axis labels -->
+    <text class="label" x="0" y="-115" text-anchor="middle">Leadership</text>
+    <text class="label" x="120" y="-35" text-anchor="middle">Soft Skills</text>
+    <text class="label" x="90" y="95" text-anchor="middle">Knowledge</text>
+    <text class="label" x="-90" y="95" text-anchor="middle">Problem Solving</text>
+    <text class="label" x="-120" y="-35" text-anchor="middle">Discipline</text>
+
+    <!-- Value polygon (Leadership:100, Soft Skills:92, Knowledge:95, Problem Solving:100, Discipline:100) -->
+    <polygon class="area" points="0,-100 87.5,-28.43 55.84,76.86 -58.78,80.9 -95.11,-30.9" />
+
+    <!-- Dots at values -->
+    <circle class="dot" cx="0" cy="-100" r="3" />
+    <circle class="dot" cx="87.5" cy="-28.43" r="3" />
+    <circle class="dot" cx="55.84" cy="76.86" r="3" />
+    <circle class="dot" cx="-58.78" cy="80.9" r="3" />
+    <circle class="dot" cx="-95.11" cy="-30.9" r="3" />
+  </g>
+</svg>
