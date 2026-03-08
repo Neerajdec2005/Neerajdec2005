@@ -1,6 +1,6 @@
 <h1 align="left">❄️Hi, I am Neeraj</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=800&color=6B7280&background=00000000&center=true&vCenter=true&width=760&lines=Machine+Learning+%7C+Big+Data+%7C+MERN+Stack+%7C+SQL" alt="specialties" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=800&color=6B7280&background=00000000&center=true&vCenter=true&width=760&lines=Machine+Learning+%7C+Generative+AI+%7C+TTS+%7C+QUANT" alt="specialties" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 <td align="center" valign="middle" style="width:35%;padding:20px;background:rgba(255,255,255,0.05);border-radius:15px;border:2px solid rgba(139,92,246,0.3);box-shadow:0 4px 12px rgba(139,92,246,0.2);">
 
 <div style="text-align:center;">
-<img src="assets/grade_badge.svg" alt="Grade B-" style="max-width:160px;height:auto;margin:10px auto;" />
+<img src="grade_badge.svg" alt="Grade A+" style="max-width:160px;height:auto;margin:10px auto;" />
 </div>
 
 <br />
@@ -45,121 +45,92 @@
 
 </td>
       <td align="center" valign="middle" style="width:65%;padding:20px;background:rgba(255,255,255,0.05);border-radius:15px;border:2px solid rgba(139,92,246,0.3);box-shadow:0 4px 12px rgba(139,92,246,0.2);">
-        <img src="assets/skills_radar.svg" alt="skills radar" style="max-width:360px;height:auto;" />
+        <img src="skills_radar.svg" alt="skills radar" style="max-width:360px;height:auto;" />
         <p style="margin-top:6px; font-size:12px; color:#6B7280;">Skill distribution</p>
       </td>
     </tr>
   </table>
 
   <br />
-  <h2 align="center"> Top Projects</h2>
-  
-  <div align="center">
-  <table style="width:100%;max-width:900px;margin:20px auto;border-collapse:separate;border-spacing:12px;table-layout:fixed;background:transparent;">
-    <tr>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;color:white;border-radius:10px;word-wrap:break-word;"><strong>Machine Learning</strong></td>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:linear-gradient(135deg, #4facfe 0%, #00f2fe 100%) !important;color:white;border-radius:10px;word-wrap:break-word;"><strong>Big Data</strong></td>
-    </tr>
-    <tr>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white !important;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;color:black;"><a href="https://github.com/Neerajdec2005/Estimation-of-Yearly-Internet-Usage-via-Stochastic-Gradient-Descent" style="color:inherit;text-decoration:none;">Estimation of Yearly Internet Usage via Stochastic Gradient Descent</a></td>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white !important;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;color:black;"><a href="https://github.com/Neerajdec2005/Word-Count-using-Hadoop-MapReduce" style="color:inherit;text-decoration:none;">Word Count using Hadoop MapReduce</a></td>
-    </tr>
-    <tr>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white !important;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;color:black;"><a href="https://github.com/Neerajdec2005/breast-cancer-classifier-using-MLE-and-Batch-Gradient-Ascent" style="color:inherit;text-decoration:none;">Breast Cancer Classifier using MLE and Batch Gradient Ascent</a></td>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white !important;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;color:black;"><em style="color:#6B7280;">Upcoming</em></td>
-    </tr>
-    <tr>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white !important;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;color:black;"><a href="https://github.com/Neerajdec2005/Simple-AI-Assistant" style="color:inherit;text-decoration:none;">Simple AI Assistant</a></td>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white !important;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;color:black;"><em style="color:#6B7280;">Upcoming</em></td>
-    </tr>
-    <tr>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white !important;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;color:black;"><a href="https://github.com/Neerajdec2005/AKARI-Youtube-AI" style="color:inherit;text-decoration:none;">AKARI Youtube AI</a></td>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white !important;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;color:black;"><em style="color:#6B7280;">Upcoming</em></td>
-    </tr>
-    <tr>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white !important;border-radius:10px;border:2px solid rgba(139,92,246,0.3);word-wrap:break-word;color:black;">
-        <p style="font-size:12px;color:#8b5cf6;font-weight:600;font-style:italic;margin:0 0 8px 0;">Tech Stacks:</p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python" style="margin:4px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="32" alt="r" style="margin:4px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="32" alt="numpy" style="margin:4px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32" alt="pandas" style="margin:4px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="32" alt="jupyter" style="margin:4px;" />
-      </td>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white !important;border-radius:10px;border:2px solid rgba(139,92,246,0.3);word-wrap:break-word;color:black;">
-        <p style="font-size:12px;color:#8b5cf6;font-weight:600;font-style:italic;margin:0 0 8px 0;">Tech Stacks:</p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python" style="margin:4px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java" style="margin:4px;" />
-      </td>
-    </tr>
-    <tr><td colspan="2" style="height:20px;background:transparent !important;"></td></tr>
-    <tr>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:linear-gradient(135deg, #fa709a 0%, #fee140 100%) !important;color:white;border-radius:10px;word-wrap:break-word;"><strong>Full Stack Development</strong></td>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:linear-gradient(135deg, #f093fb 0%, #f5576c 100%) !important;color:white;border-radius:10px;word-wrap:break-word;"><strong>OpenCV</strong></td>
-    </tr>
-    <tr>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white !important;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;color:black;"><a href="https://github.com/Neerajdec2005/GATE-ANALYSIS" style="color:inherit;text-decoration:none;">GATE ANALYSIS</a></td>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white !important;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;color:black;"><a href="https://github.com/Neerajdec2005/Real-Time-object-detection-and-presentation-using-point-clouds" style="color:inherit;text-decoration:none;">Real Time Object Detection and Presentation using Point Clouds</a></td>
-    </tr>
-    <tr>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white !important;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;color:black;"><a href="https://github.com/Neerajdec2005/Game-of-Life" style="color:inherit;text-decoration:none;">Game of Life</a></td>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white !important;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;color:black;"><a href="https://github.com/Neerajdec2005/Word-Detection-Using-EasyOCR" style="color:inherit;text-decoration:none;">Word Detection Using EasyOCR</a></td>
-    </tr>
-    <tr>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white !important;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;color:black;"><a href="https://github.com/Neerajdec2005/ELPL" style="color:inherit;text-decoration:none;">ELPL</a></td>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white !important;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;color:black;"><a href="https://github.com/Neerajdec2005/Mtcnn-Haar-Cascade-opencv-implemention" style="color:inherit;text-decoration:none;">Mtcnn Haar Cascade OpenCV Implementation</a></td>
-    </tr>
-    <tr>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white !important;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;color:black;"><a href="https://github.com/Neerajdec2005/Neeraj-s-Portfolio" style="color:inherit;text-decoration:none;">Neeraj's Portfolio</a></td>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white !important;border:1px solid rgba(139,92,246,0.2);word-wrap:break-word;overflow-wrap:break-word;color:black;"><em style="color:#6B7280;">Upcoming</em></td>
-    </tr>
-    <tr>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white !important;border-radius:10px;border:2px solid rgba(139,92,246,0.3);word-wrap:break-word;color:black;">
-        <p style="font-size:12px;color:#8b5cf6;font-weight:600;font-style:italic;margin:0 0 8px 0;">Tech Stacks:</p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5" style="margin:4px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3" style="margin:4px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript" style="margin:4px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react" style="margin:4px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs" style="margin:4px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="mongodb" style="margin:4px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql" style="margin:4px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="postgresql" style="margin:4px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="figma" style="margin:4px;" />
-      </td>
-      <td align="center" style="width:50%;max-width:50%;padding:15px 20px;background:white !important;border-radius:10px;border:2px solid rgba(139,92,246,0.3);word-wrap:break-word;color:black;">
-        <p style="font-size:12px;color:#8b5cf6;font-weight:600;font-style:italic;margin:0 0 8px 0;">Tech Stacks:</p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python" style="margin:4px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="32" alt="opencv" style="margin:4px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="32" alt="numpy" style="margin:4px;" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" style="padding:20px;background:rgba(139,92,246,0.15) !important;border-radius:15px;border:2px solid rgba(139,92,246,0.3);box-shadow:0 4px 12px rgba(139,92,246,0.2);text-align:center;color:black;">
-        <p style="font-size:12px;color:#8b5cf6;font-weight:600;font-style:italic;margin:0 0 12px 0;">Additional Tech Stacks:</p>
-        <div style="text-align:center;">
-          <img src="https://skillicons.dev/icons?i=c" height="32" alt="c" style="margin:4px;" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="cplusplus" style="margin:4px;" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="32" alt="canva" style="margin:4px;" />
-          <img src="https://img.icons8.com/color/48/tableau-software.png" height="32" alt="tableau" style="margin:4px;" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode" style="margin:4px;" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="32" alt="clion" style="margin:4px;" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="32" alt="postman" style="margin:4px;" />
-        </div>
-      </td>
-    </tr>
-  </table>
-  </div>
+  <h2 align="center">Top Projects</h2>
+
+<table>
+<tr><th>Machine Learning</th><th>Agentic AI</th></tr>
+<tr><td>
+
+|Title | Stars | Views | Technologies|
+|--|--|--|--|
+| [Neural Network for Fashion MNIST](https://github.com/Neerajdec2005/Neural-Network-for-Fashion-MNIST) | <img alt="Stars" src="https://img.shields.io/github/stars/Neerajdec2005/Neural-Network-for-Fashion-MNIST?style=flat-square&labelColor=black"/> | ![Views](https://visitor-badge.laobi.icu/badge?page_id=Neerajdec2005.Neural-Network-for-Fashion-MNIST) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
+| [Neural Network Concepts](https://github.com/Neerajdec2005/Neural-Network-Concepts) | <img alt="Stars" src="https://img.shields.io/github/stars/Neerajdec2005/Neural-Network-Concepts?style=flat-square&labelColor=black"/> | ![Views](https://visitor-badge.laobi.icu/badge?page_id=Neerajdec2005.Neural-Network-Concepts) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
+| [Yearly Internet Usage via SGD](https://github.com/Neerajdec2005/Estimation-of-Yearly-Internet-Usage-via-Stochastic-Gradient-Descent) | <img alt="Stars" src="https://img.shields.io/github/stars/Neerajdec2005/Estimation-of-Yearly-Internet-Usage-via-Stochastic-Gradient-Descent?style=flat-square&labelColor=black"/> | ![Views](https://visitor-badge.laobi.icu/badge?page_id=Neerajdec2005.Estimation-of-Yearly-Internet-Usage-via-Stochastic-Gradient-Descent) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)|
+| [Breast Cancer Classifier MLE+BGA](https://github.com/Neerajdec2005/breast-cancer-classifier-using-MLE-and-Batch-Gradient-Ascent) | <img alt="Stars" src="https://img.shields.io/github/stars/Neerajdec2005/breast-cancer-classifier-using-MLE-and-Batch-Gradient-Ascent?style=flat-square&labelColor=black"/> | ![Views](https://visitor-badge.laobi.icu/badge?page_id=Neerajdec2005.breast-cancer-classifier-using-MLE-and-Batch-Gradient-Ascent) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![ScikitLearn](https://img.shields.io/badge/sklearn-black?style=flat-square&logo=scikitlearn)|
+
+</td><td>
+
+|Title | Stars | Views | Technologies|
+|--|--|--|--|
+| [AKARI YouTube AI](https://github.com/Neerajdec2005/AKARI-Youtube-AI) | <img alt="Stars" src="https://img.shields.io/github/stars/Neerajdec2005/AKARI-Youtube-AI?style=flat-square&labelColor=black"/> | ![Views](https://visitor-badge.laobi.icu/badge?page_id=Neerajdec2005.AKARI-Youtube-AI) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![YT](https://img.shields.io/badge/API-black?style=flat-square&logo=youtube)|
+| [Simple AI Assistant](https://github.com/Neerajdec2005/Simple-AI-Assistant) | <img alt="Stars" src="https://img.shields.io/github/stars/Neerajdec2005/Simple-AI-Assistant?style=flat-square&labelColor=black"/> | ![Views](https://visitor-badge.laobi.icu/badge?page_id=Neerajdec2005.Simple-AI-Assistant) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=flat-square&logo=openai)|
+| [Law-Aware AI](https://github.com/Neerajdec2005/Law-Aware-AI) | <img alt="Stars" src="https://img.shields.io/github/stars/Neerajdec2005/Law-Aware-AI?style=flat-square&labelColor=black"/> | ![Views](https://visitor-badge.laobi.icu/badge?page_id=Neerajdec2005.Law-Aware-AI) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square&logo=chainlink) ![RAG](https://img.shields.io/badge/RAG-black?style=flat-square&logo=googledocs)|
+
+</td></tr> </table>
+
+<table>
+<tr><th>Generative AI</th><th>Big Data</th></tr>
+<tr><td>
+
+|Title | Stars | Views | Technologies|
+|--|--|--|--|
+| [Gemma-2B Fine-Tuned on 25K Python Codes](https://github.com/Neerajdec2005/Gemma-2B-Fine-Tuned-on-25K-Python-Codes) | <img alt="Stars" src="https://img.shields.io/github/stars/Neerajdec2005/Gemma-2B-Fine-Tuned-on-25K-Python-Codes?style=flat-square&labelColor=black"/> | ![Views](https://visitor-badge.laobi.icu/badge?page_id=Neerajdec2005.Gemma-2B-Fine-Tuned-on-25K-Python-Codes) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![HuggingFace](https://img.shields.io/badge/🤗_HF-black?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
+| [Diffusion TTS](https://github.com/Neerajdec2005/Diffusion-TTS) | <img alt="Stars" src="https://img.shields.io/github/stars/Neerajdec2005/Diffusion-TTS?style=flat-square&labelColor=black"/> | ![Views](https://visitor-badge.laobi.icu/badge?page_id=Neerajdec2005.Diffusion-TTS) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Diffusion](https://img.shields.io/badge/Diffusion-black?style=flat-square&logo=audiomack)|
+
+</td><td>
+
+|Title | Stars | Views | Technologies|
+|--|--|--|--|
+| [Word Count via Hadoop MapReduce](https://github.com/Neerajdec2005/Word-Count-using-Hadoop-MapReduce) | <img alt="Stars" src="https://img.shields.io/github/stars/Neerajdec2005/Word-Count-using-Hadoop-MapReduce?style=flat-square&labelColor=black"/> | ![Views](https://visitor-badge.laobi.icu/badge?page_id=Neerajdec2005.Word-Count-using-Hadoop-MapReduce) | ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk) ![Hadoop](https://img.shields.io/badge/Hadoop-black?style=flat-square&logo=apachehadoop) ![MapReduce](https://img.shields.io/badge/MapReduce-black?style=flat-square&logo=apachespark)|
+
+</td></tr> </table>
+
+<table>
+<tr><th>Full Stack Development</th><th>Computer Vision</th></tr>
+<tr><td>
+
+|Title | Stars | Views | Technologies|
+|--|--|--|--|
+| [GATE Analysis](https://github.com/Neerajdec2005/GATE-ANALYSIS) | <img alt="Stars" src="https://img.shields.io/github/stars/Neerajdec2005/GATE-ANALYSIS?style=flat-square&labelColor=black"/> | ![Views](https://visitor-badge.laobi.icu/badge?page_id=Neerajdec2005.GATE-ANALYSIS) | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![NodeJS](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs) ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)|
+| [Game of Life](https://github.com/Neerajdec2005/Game-of-Life) | <img alt="Stars" src="https://img.shields.io/github/stars/Neerajdec2005/Game-of-Life?style=flat-square&labelColor=black"/> | ![Views](https://visitor-badge.laobi.icu/badge?page_id=Neerajdec2005.Game-of-Life) | ![JavaScript](https://img.shields.io/badge/JS-black?style=flat-square&logo=javascript) ![Canvas](https://img.shields.io/badge/Canvas-black?style=flat-square&logo=html5)|
+| [ELPL](https://github.com/Neerajdec2005/ELPL) | <img alt="Stars" src="https://img.shields.io/github/stars/Neerajdec2005/ELPL?style=flat-square&labelColor=black"/> | ![Views](https://visitor-badge.laobi.icu/badge?page_id=Neerajdec2005.ELPL) | ![HTML5](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3)|
+| [Neeraj's Portfolio](https://github.com/Neerajdec2005/Neeraj-s-Portfolio) | <img alt="Stars" src="https://img.shields.io/github/stars/Neerajdec2005/Neeraj-s-Portfolio?style=flat-square&labelColor=black"/> | ![Views](https://visitor-badge.laobi.icu/badge?page_id=Neerajdec2005.Neeraj-s-Portfolio) | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma)|
+
+</td><td>
+
+|Title | Stars | Views | Technologies|
+|--|--|--|--|
+| [Real-Time Object Detection via Point Clouds](https://github.com/Neerajdec2005/Real-Time-object-detection-and-presentation-using-point-clouds) | <img alt="Stars" src="https://img.shields.io/github/stars/Neerajdec2005/Real-Time-object-detection-and-presentation-using-point-clouds?style=flat-square&labelColor=black"/> | ![Views](https://visitor-badge.laobi.icu/badge?page_id=Neerajdec2005.Real-Time-object-detection-and-presentation-using-point-clouds) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![Open3D](https://img.shields.io/badge/Open3D-black?style=flat-square&logo=python)|
+| [Word Detection via EasyOCR](https://github.com/Neerajdec2005/Word-Detection-Using-EasyOCR) | <img alt="Stars" src="https://img.shields.io/github/stars/Neerajdec2005/Word-Detection-Using-EasyOCR?style=flat-square&labelColor=black"/> | ![Views](https://visitor-badge.laobi.icu/badge?page_id=Neerajdec2005.Word-Detection-Using-EasyOCR) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
+| [MTCNN Haar Cascade OpenCV](https://github.com/Neerajdec2005/Mtcnn-Haar-Cascade-opencv-implemention) | <img alt="Stars" src="https://img.shields.io/github/stars/Neerajdec2005/Mtcnn-Haar-Cascade-opencv-implemention?style=flat-square&labelColor=black"/> | ![Views](https://visitor-badge.laobi.icu/badge?page_id=Neerajdec2005.Mtcnn-Haar-Cascade-opencv-implemention) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![MTCNN](https://img.shields.io/badge/MTCNN-black?style=flat-square&logo=tensorflow)|
+
+</td></tr> </table>
+
+<br>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neerajdec2005&theme=dracula" alt="Repos Per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Neerajdec2005&theme=dracula" alt="Most Commit Language" />
+</p>
+
 
   <br/>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Neerajdec2005&layout=compact&theme=nightowl&hide_border=false&langs_count=8" height="180" alt="Top languages" />
-    <img src="https://streak-stats.demolab.com?user=Neerajdec2005&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5" height="180" alt="streak graph" />
-  </div>
 
-  <br />
+  <div align="center" style="margin-top:10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neerajdec2005&theme=radical" alt="GitHub Streak" style="max-width:100%;border-radius:8px;" />
+</div>
 
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neerajdec2005&custom_title=Contribution%20Graph&bg_color=0d1117&color=8b5cf6&line=667eea&point=8b5cf6&area=true&area_color=667eea&hide_border=true&radius=16" height="320" width="95%" style="max-width:900px;border-radius:15px;" alt="activity graph" />
-  </div>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neerajdec2005&theme=dracula" alt="Profile Details" />
+</p>
 </div>
 
 ###
@@ -182,4 +153,8 @@
 <a href="https://atcoder.jp/users/captainite" target="blank"><img align="center" src="https://img.atcoder.jp/assets/atcoder.png" alt="atcoder" height="40" width="40" style="background:white;padding:5px;border-radius:5px;" /></a>
 <img width="20" />
 <a href="https://www.hackerrank.com/thug_neeraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="40" width="40" style="background:white;padding:5px;border-radius:5px;" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Neerajdec2005&style=flat-square&color=blueviolet" alt="Profile Views" />
 </p>
