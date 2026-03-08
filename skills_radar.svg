@@ -1,0 +1,209 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 390" width="700" height="390">
+<!--
+  All 7 Gaussians centred at cx=350, baseline y=275. Canvas 700x390.
+  Chart area: x=25..675, y=20..275.
+  y_svg = 275 - amp * exp( -(x-350)^2 / (2*sigma^2) )
+
+  Skill   amp  sigma  peak_y  colour
+  GenAI   235   30      40    #00f5ff
+  ML      200   45      75    #7b2ff7
+  DL      165   58     110    #c77dff
+  CP      140   72     135    #90be6d
+  TTS     118   88     157    #f9c74f
+  Quant   100  105     175    #f8961e
+  Maths    83  125     192    #f3722c
+-->
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="60%" r="65%">
+      <stop offset="0%" stop-color="#1a1040"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </radialGradient>
+    <clipPath id="chart-clip">
+      <rect x="25" y="18" width="650" height="260"/>
+    </clipPath>
+  </defs>
+
+  <!-- background -->
+  <rect width="700" height="390" fill="#0d1117" rx="16"/>
+  <rect x="14" y="8" width="672" height="298" fill="url(#bg)" rx="12"/>
+
+  <!-- horizontal grid lines -->
+  <g stroke="#fff" stroke-opacity="0.05" stroke-width="1">
+    <line x1="25" y1="60"  x2="675" y2="60"/>
+    <line x1="25" y1="100" x2="675" y2="100"/>
+    <line x1="25" y1="140" x2="675" y2="140"/>
+    <line x1="25" y1="180" x2="675" y2="180"/>
+    <line x1="25" y1="220" x2="675" y2="220"/>
+    <line x1="25" y1="260" x2="675" y2="260"/>
+  </g>
+
+  <!-- baseline -->
+  <line x1="25" y1="275" x2="675" y2="275" stroke="#fff" stroke-opacity="0.25" stroke-width="1.5"/>
+
+  <!-- centre vertical dashed line -->
+  <line x1="350" y1="22" x2="350" y2="275" stroke="#fff" stroke-opacity="0.12" stroke-width="1" stroke-dasharray="5,5"/>
+
+  <!-- ===== MATHS  amp=83  sigma=125  peak_y=192  #f3722c  dashed ===== -->
+  <path clip-path="url(#chart-clip)"
+    fill="#f3722c" fill-opacity="0.12"
+    stroke="#f3722c" stroke-width="1.8" stroke-opacity="0.9" stroke-dasharray="8,4"
+    d="M 25,272.2 L 35,271.5 L 45,270.8 L 55,269.9 L 65,268.8 L 75,267.6 L 85,266.2 L 95,264.6
+       L 105,262.8 L 115,260.8 L 125,258.6 L 135,256.1 L 145,253.4 L 155,250.4 L 165,247.2
+       L 175,243.8 L 185,240.3 L 195,236.5 L 205,232.6 L 215,228.7 L 225,224.7 L 235,220.6
+       L 245,216.7 L 255,212.8 L 265,209.1 L 275,205.7 L 285,202.5 L 295,199.7 L 305,197.2
+       L 315,195.2 L 325,193.6 L 335,192.6 L 345,192.1 L 350,192.0 L 355,192.1 L 365,192.6
+       L 375,193.6 L 385,195.2 L 395,197.2 L 405,199.7 L 415,202.5 L 425,205.7 L 435,209.1
+       L 445,212.8 L 455,216.7 L 465,220.6 L 475,224.7 L 485,228.7 L 495,232.6 L 505,236.5
+       L 515,240.3 L 525,243.8 L 535,247.2 L 545,250.4 L 555,253.4 L 565,256.1 L 575,258.6
+       L 585,260.8 L 595,262.8 L 605,264.6 L 615,266.2 L 625,267.6 L 635,268.8 L 645,269.9
+       L 655,270.8 L 665,271.5 L 675,272.2
+       L 675,275 L 25,275 Z"/>
+
+  <!-- ===== QUANT  amp=100  sigma=105  peak_y=175  #f8961e  dot-dash ===== -->
+  <path clip-path="url(#chart-clip)"
+    fill="#f8961e" fill-opacity="0.12"
+    stroke="#f8961e" stroke-width="1.9" stroke-opacity="0.9" stroke-dasharray="12,4,2,4"
+    d="M 25,274.2 L 35,273.9 L 45,273.5 L 55,273.1 L 65,272.5 L 75,271.8 L 85,270.9 L 95,269.8
+       L 105,268.4 L 115,266.8 L 125,264.9 L 135,262.7 L 145,260.1 L 155,257.2 L 165,253.8
+       L 175,250.1 L 185,245.9 L 195,241.4 L 205,236.5 L 215,231.2 L 225,225.8 L 235,220.1
+       L 245,214.3 L 255,208.6 L 265,202.9 L 275,197.5 L 285,192.4 L 295,187.8 L 305,183.8
+       L 315,180.4 L 325,177.8 L 335,176.0 L 345,175.1 L 350,175.0 L 355,175.1 L 365,176.0
+       L 375,177.8 L 385,180.4 L 395,183.8 L 405,187.8 L 415,192.4 L 425,197.5 L 435,202.9
+       L 445,208.6 L 455,214.3 L 465,220.1 L 475,225.8 L 485,231.2 L 495,236.5 L 505,241.4
+       L 515,245.9 L 525,250.1 L 535,253.8 L 545,257.2 L 555,260.1 L 565,262.7 L 575,264.9
+       L 585,266.8 L 595,268.4 L 605,269.8 L 615,270.9 L 625,271.8 L 635,272.5 L 645,273.1
+       L 655,273.5 L 665,273.9 L 675,274.2
+       L 675,275 L 25,275 Z"/>
+
+  <!-- ===== TTS  amp=118  sigma=88  peak_y=157  #f9c74f  short-dash ===== -->
+  <path clip-path="url(#chart-clip)"
+    fill="#f9c74f" fill-opacity="0.13"
+    stroke="#f9c74f" stroke-width="2.0" stroke-opacity="0.9" stroke-dasharray="4,3"
+    d="M 25,274.9 L 35,274.8 L 45,274.7 L 55,274.6 L 65,274.4 L 75,274.1 L 85,273.7 L 95,273.2
+       L 105,272.6 L 115,271.7 L 125,270.5 L 135,269.0 L 145,267.2 L 155,264.9 L 165,262.1
+       L 175,258.7 L 185,254.7 L 195,250.0 L 205,244.6 L 215,238.6 L 225,232.0 L 235,224.8
+       L 245,217.1 L 255,209.1 L 265,201.0 L 275,192.9 L 285,185.2 L 295,177.9 L 305,171.5
+       L 315,166.0 L 325,161.7 L 335,158.7 L 345,157.2 L 350,157.0 L 355,157.2 L 365,158.7
+       L 375,161.7 L 385,166.0 L 395,171.5 L 405,177.9 L 415,185.2 L 425,192.9 L 435,201.0
+       L 445,209.1 L 455,217.1 L 465,224.8 L 475,232.0 L 485,238.6 L 495,244.6 L 505,250.0
+       L 515,254.7 L 525,258.7 L 535,262.1 L 545,264.9 L 555,267.2 L 565,269.0 L 575,270.5
+       L 585,271.7 L 595,272.6 L 605,273.2 L 615,273.7 L 625,274.1 L 635,274.4 L 645,274.6
+       L 655,274.7 L 665,274.8 L 675,274.9
+       L 675,275 L 25,275 Z"/>
+
+  <!-- ===== CP  amp=140  sigma=72  peak_y=135  #90be6d  medium-dash ===== -->
+  <path clip-path="url(#chart-clip)"
+    fill="#90be6d" fill-opacity="0.14"
+    stroke="#90be6d" stroke-width="2.1" stroke-opacity="0.92" stroke-dasharray="6,3,1,3"
+    d="M 25,275.0 L 65,274.9 L 75,274.9 L 85,274.8 L 95,274.7 L 105,274.6 L 115,274.3
+       L 125,273.9 L 135,273.4 L 145,272.6 L 155,271.4 L 165,269.8 L 175,267.7 L 185,264.9
+       L 195,261.2 L 205,256.6 L 215,250.9 L 225,244.0 L 235,235.9 L 245,226.7 L 255,216.4
+       L 265,205.3 L 275,193.6 L 285,181.9 L 295,170.4 L 305,159.8 L 315,150.6 L 325,143.2
+       L 335,138.0 L 345,135.3 L 350,135.0 L 355,135.3 L 365,138.0 L 375,143.2 L 385,150.6
+       L 395,159.8 L 405,170.4 L 415,181.9 L 425,193.6 L 435,205.3 L 445,216.4 L 455,226.7
+       L 465,235.9 L 475,244.0 L 485,250.9 L 495,256.6 L 505,261.2 L 515,264.9 L 525,267.7
+       L 535,269.8 L 545,271.4 L 555,272.6 L 565,273.4 L 575,273.9 L 585,274.3 L 595,274.6
+       L 605,274.7 L 615,274.8 L 625,274.9 L 635,274.9 L 655,275.0 L 675,275.0
+       L 675,275 L 25,275 Z"/>
+
+  <!-- ===== DL  amp=165  sigma=58  peak_y=110  #c77dff  fine-dot ===== -->
+  <path clip-path="url(#chart-clip)"
+    fill="#c77dff" fill-opacity="0.15"
+    stroke="#c77dff" stroke-width="2.2" stroke-opacity="0.93" stroke-dasharray="2,3"
+    d="M 25,275.0 L 125,274.9 L 135,274.8 L 145,274.7 L 155,274.4 L 165,274.0 L 175,273.3
+       L 185,272.1 L 195,270.4 L 205,267.8 L 215,264.0 L 225,258.8 L 235,251.9 L 245,243.0
+       L 255,231.9 L 265,218.6 L 275,203.5 L 285,186.9 L 295,169.8 L 305,152.9 L 315,137.5
+       L 325,124.6 L 335,115.4 L 345,110.6 L 350,110.0 L 355,110.6 L 365,115.4 L 375,124.6
+       L 385,137.5 L 395,152.9 L 405,169.8 L 415,186.9 L 425,203.5 L 435,218.6 L 445,231.9
+       L 455,243.0 L 465,251.9 L 475,258.8 L 485,264.0 L 495,267.8 L 505,270.4 L 515,272.1
+       L 525,273.3 L 535,274.0 L 545,274.4 L 555,274.7 L 565,274.8 L 575,274.9 L 625,275.0
+       L 675,275.0
+       L 675,275 L 25,275 Z"/>
+
+  <!-- ===== ML  amp=200  sigma=45  peak_y=75  #7b2ff7  solid ===== -->
+  <path clip-path="url(#chart-clip)"
+    fill="#7b2ff7" fill-opacity="0.17"
+    stroke="#7b2ff7" stroke-width="2.4" stroke-opacity="0.95"
+    d="M 25,275.0 L 175,274.9 L 185,274.8 L 195,274.5 L 205,273.9 L 215,272.8 L 225,270.8
+       L 235,267.4 L 245,261.9 L 255,253.5 L 265,241.4 L 275,225.1 L 285,204.5 L 295,180.2
+       L 305,153.7 L 315,127.2 L 325,103.6 L 335,85.8 L 345,76.2 L 350,75.0 L 355,76.2
+       L 365,85.8 L 375,103.6 L 385,127.2 L 395,153.7 L 405,180.2 L 415,204.5 L 425,225.1
+       L 435,241.4 L 445,253.5 L 455,261.9 L 465,267.4 L 475,270.8 L 485,272.8 L 495,273.9
+       L 505,274.5 L 515,274.8 L 525,274.9 L 545,275.0 L 675,275.0
+       L 675,275 L 25,275 Z"/>
+
+  <!-- ===== GenAI  amp=235  sigma=30  peak_y=40  #00f5ff  solid+glow ===== -->
+  <path clip-path="url(#chart-clip)"
+    fill="#00f5ff" fill-opacity="0.08"
+    stroke="#00f5ff" stroke-width="1.5" stroke-opacity="0.25"
+    d="M 25,275.0 L 235,274.8 L 245,274.5 L 255,273.4 L 265,270.8 L 275,264.7 L 285,252.5
+       L 295,231.2 L 305,198.7 L 315,156.0 L 325,108.9 L 335,67.6 L 345,43.2 L 350,40.0
+       L 355,43.2 L 365,67.6 L 375,108.9 L 385,156.0 L 395,198.7 L 405,231.2 L 415,252.5
+       L 425,264.7 L 435,270.8 L 445,273.4 L 455,274.5 L 465,274.8 L 485,275.0 L 675,275.0
+       L 675,275 L 25,275 Z"/>
+  <!-- glow stroke on top -->
+  <path clip-path="url(#chart-clip)"
+    fill="none"
+    stroke="#00f5ff" stroke-width="2.6" stroke-opacity="1.0"
+    d="M 25,275.0 L 235,274.8 L 245,274.5 L 255,273.4 L 265,270.8 L 275,264.7 L 285,252.5
+       L 295,231.2 L 305,198.7 L 315,156.0 L 325,108.9 L 335,67.6 L 345,43.2 L 350,40.0
+       L 355,43.2 L 365,67.6 L 375,108.9 L 385,156.0 L 395,198.7 L 405,231.2 L 415,252.5
+       L 425,264.7 L 435,270.8 L 445,273.4 L 455,274.5 L 465,274.8 L 485,275.0 L 675,275.0"/>
+
+  <!-- peak dots with halo rings -->
+  <!-- GenAI -->
+  <circle cx="350" cy="40"  r="9"   fill="none" stroke="#00f5ff" stroke-width="1.2" stroke-opacity="0.3"/>
+  <circle cx="350" cy="40"  r="5"   fill="#00f5ff"/>
+  <!-- ML -->
+  <circle cx="350" cy="75"  r="7.5" fill="none" stroke="#7b2ff7" stroke-width="1.1" stroke-opacity="0.3"/>
+  <circle cx="350" cy="75"  r="4"   fill="#7b2ff7"/>
+  <!-- DL -->
+  <circle cx="350" cy="110" r="3.8" fill="#c77dff"/>
+  <!-- CP -->
+  <circle cx="350" cy="135" r="3.5" fill="#90be6d"/>
+  <!-- TTS -->
+  <circle cx="350" cy="157" r="3.2" fill="#f9c74f"/>
+  <!-- Quant -->
+  <circle cx="350" cy="175" r="3"   fill="#f8961e"/>
+  <!-- Maths -->
+  <circle cx="350" cy="192" r="3"   fill="#f3722c"/>
+
+  <!-- mu label on centre line -->
+  <text x="350" y="290" text-anchor="middle" font-family="'Fira Code',monospace" font-size="9" fill="#ffffff" fill-opacity="0.3">μ</text>
+
+  <!-- ===== SKILL LABELS ROW — below the plot ===== -->
+  <!-- 7 labels evenly spaced across x=60..640, y~320 -->
+  <!-- spacing: (640-60)/6 = ~96.7, so centres: 60, 157, 254, 350, 446, 543, 640 -->
+
+  <!-- Maths -->
+  <rect x="42"  y="305" width="36" height="4" rx="2" fill="#f3722c" fill-opacity="0.7"/>
+  <text x="60"  y="323" text-anchor="middle" font-family="'Fira Code',monospace" font-size="11" fill="#f3722c" font-weight="600">Maths</text>
+
+  <!-- Quant -->
+  <rect x="139" y="305" width="36" height="4" rx="2" fill="#f8961e" fill-opacity="0.7"/>
+  <text x="157" y="323" text-anchor="middle" font-family="'Fira Code',monospace" font-size="11" fill="#f8961e" font-weight="600">Quant</text>
+
+  <!-- TTS -->
+  <rect x="236" y="305" width="36" height="4" rx="2" fill="#f9c74f" fill-opacity="0.7"/>
+  <text x="254" y="323" text-anchor="middle" font-family="'Fira Code',monospace" font-size="11" fill="#f9c74f" font-weight="600">TTS</text>
+
+  <!-- GenAI (centre) -->
+  <rect x="329" y="305" width="42" height="4" rx="2" fill="#00f5ff" fill-opacity="0.7"/>
+  <text x="350" y="323" text-anchor="middle" font-family="'Fira Code',monospace" font-size="11" fill="#00f5ff" font-weight="700">GenAI</text>
+
+  <!-- CP -->
+  <rect x="425" y="305" width="42" height="4" rx="2" fill="#90be6d" fill-opacity="0.7"/>
+  <text x="446" y="323" text-anchor="middle" font-family="'Fira Code',monospace" font-size="11" fill="#90be6d" font-weight="600">CP</text>
+
+  <!-- ML -->
+  <rect x="525" y="305" width="36" height="4" rx="2" fill="#7b2ff7" fill-opacity="0.7"/>
+  <text x="543" y="323" text-anchor="middle" font-family="'Fira Code',monospace" font-size="11" fill="#7b2ff7" font-weight="600">ML</text>
+
+  <!-- DL -->
+  <rect x="622" y="305" width="36" height="4" rx="2" fill="#c77dff" fill-opacity="0.7"/>
+  <text x="640" y="323" text-anchor="middle" font-family="'Fira Code',monospace" font-size="11" fill="#c77dff" font-weight="600">DL</text>
+
+  <!-- ===== TITLE — centred on 700px canvas ===== -->
+  <text x="350" y="349" text-anchor="middle" font-family="'Fira Code',monospace" font-size="12" fill="#ffffff" fill-opacity="0.5" letter-spacing="3">SKILL DISTRIBUTION</text>
+  <text x="350" y="368" text-anchor="middle" font-family="'Fira Code',monospace" font-size="9.5" fill="#8b5cf6" fill-opacity="0.85" letter-spacing="1">Gaussian Proficiency Model</text>
+</svg>

@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 190" width="160" height="190">
+  <defs>
+    <!-- Shield gradient: deep purple → violet → dark -->
+    <linearGradient id="shieldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#1a0a3a"/>
+      <stop offset="45%"  stop-color="#3b1fa8"/>
+      <stop offset="100%" stop-color="#0d0620"/>
+    </linearGradient>
+    <!-- Shine highlight -->
+    <linearGradient id="shineGrad" x1="0%" y1="0%" x2="60%" y2="100%">
+      <stop offset="0%"  stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.0"/>
+    </linearGradient>
+    <!-- Border gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#00f5ff"/>
+      <stop offset="50%"  stop-color="#7b2ff7"/>
+      <stop offset="100%" stop-color="#f3722c"/>
+    </linearGradient>
+    <!-- Glow filter for A+ text -->
+    <filter id="textGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <!-- Outer shield drop shadow -->
+    <filter id="shieldShadow" x="-15%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#7b2ff7" flood-opacity="0.5"/>
+    </filter>
+    <!-- Star shape for decoration -->
+    <clipPath id="shieldClip">
+      <!-- Same shield path used as clip -->
+      <path d="M 80,8 L 148,32 L 148,88 C 148,130 110,162 80,178 C 50,162 12,130 12,88 L 12,32 Z"/>
+    </clipPath>
+  </defs>
+
+  <!-- Outer glow ring (faint) -->
+  <path d="M 80,5 L 153,30 L 153,90 C 153,135 113,168 80,185 C 47,168 7,135 7,90 L 7,30 Z"
+    fill="none" stroke="url(#borderGrad)" stroke-width="2.5" stroke-opacity="0.4"/>
+
+  <!-- Shield body -->
+  <path d="M 80,8 L 148,32 L 148,88 C 148,130 110,162 80,178 C 50,162 12,130 12,88 L 12,32 Z"
+    fill="url(#shieldGrad)" filter="url(#shieldShadow)"/>
+
+  <!-- Inner border -->
+  <path d="M 80,8 L 148,32 L 148,88 C 148,130 110,162 80,178 C 50,162 12,130 12,88 L 12,32 Z"
+    fill="none" stroke="url(#borderGrad)" stroke-width="2.2"/>
+
+  <!-- Shine overlay -->
+  <path d="M 80,8 L 148,32 L 148,88 C 148,130 110,162 80,178 C 50,162 12,130 12,88 L 12,32 Z"
+    fill="url(#shineGrad)" clip-path="url(#shieldClip)"/>
+
+  <!-- Inner decorative ring inside shield -->
+  <path d="M 80,20 L 138,40 L 138,90 C 138,124 106,152 80,166 C 54,152 22,124 22,90 L 22,40 Z"
+    fill="none" stroke="#ffffff" stroke-opacity="0.07" stroke-width="1.2"/>
+
+  <!-- Subtle horizontal scan lines for depth -->
+  <rect x="12" y="12" width="136" height="166" fill="none"
+    clip-path="url(#shieldClip)">
+  </rect>
+
+  <!-- ★ Star accents top-left and top-right -->
+  <text x="34"  y="58" text-anchor="middle" font-size="13" fill="#00f5ff" fill-opacity="0.5" font-family="serif">✦</text>
+  <text x="126" y="58" text-anchor="middle" font-size="13" fill="#00f5ff" fill-opacity="0.5" font-family="serif">✦</text>
+
+  <!-- Small decorative arc at top of shield interior -->
+  <path d="M 50,38 Q 80,28 110,38" stroke="#ffffff" stroke-opacity="0.12" stroke-width="1" fill="none"/>
+
+  <!-- ═══ GRADE TEXT A+ ═══ -->
+  <!-- Shadow layer -->
+  <text x="82" y="122" text-anchor="middle"
+    font-family="'Segoe UI',Arial,sans-serif" font-size="72" font-weight="900"
+    fill="#000000" fill-opacity="0.4" letter-spacing="-2">A+</text>
+
+  <!-- Main A+ with glow -->
+  <text x="80" y="120" text-anchor="middle"
+    font-family="'Segoe UI',Arial,sans-serif" font-size="72" font-weight="900"
+    fill="#00f5ff" filter="url(#textGlow)" letter-spacing="-2">A+</text>
+
+  <!-- Subtle inner highlight on A+ -->
+  <text x="80" y="120" text-anchor="middle"
+    font-family="'Segoe UI',Arial,sans-serif" font-size="72" font-weight="900"
+    fill="url(#shineGrad)" fill-opacity="0.35" letter-spacing="-2">A+</text>
+
+  <!-- GRADE label beneath A+ -->
+  <text x="80" y="148" text-anchor="middle"
+    font-family="'Fira Code',monospace" font-size="11" font-weight="600"
+    fill="#ffffff" fill-opacity="0.55" letter-spacing="4">GRADE</text>
+
+  <!-- Bottom decorative line -->
+  <line x1="46" y1="154" x2="114" y2="154" stroke="url(#borderGrad)" stroke-width="1.2" stroke-opacity="0.6"/>
+
+  <!-- Coloured dot row at bottom of shield -->
+  <circle cx="62"  cy="163" r="2.2" fill="#f3722c" fill-opacity="0.7"/>
+  <circle cx="72"  cy="163" r="2.2" fill="#f9c74f" fill-opacity="0.7"/>
+  <circle cx="80"  cy="163" r="2.5" fill="#00f5ff" fill-opacity="0.9"/>
+  <circle cx="88"  cy="163" r="2.2" fill="#7b2ff7" fill-opacity="0.7"/>
+  <circle cx="98"  cy="163" r="2.2" fill="#90be6d" fill-opacity="0.7"/>
+</svg>
